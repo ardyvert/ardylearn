@@ -1,0 +1,10 @@
+body.responsive{padding: 5%;margin: auto;color: white; width: 100%;height: auto;min-width: 1000px;
+ }
+ p{margin: auto;padding: 2%;color: black;font-size: 16px;font-style: italic; font-family: Zapf-Chancery,cursive;}
+ header{color: green;font-size: 100px;}
+ h3{margin: auto;padding: 1%;color: red;}
+ div.img-wrap{float:right;width: 40%;}
+ img.responsive{max-width: 100%;height: auto;}
+ h1{margin: auto;padding: 1%;color: blue;}
+ button{background: purple;}
+ div{padding: 15%;}
